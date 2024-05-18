@@ -1,7 +1,3 @@
 export default function Layer2Page() {
-    return (
-        <main className="">
-            (Page 2 for layout)
-        </main>
-    );
+    return <main className="">(Page 2 for layout)</main>;
 }
